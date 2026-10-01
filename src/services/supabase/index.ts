@@ -1,0 +1,12 @@
+export { SupabaseAuthService } from './authService';
+export { SupabaseUsersService } from './usersService';
+export { SupabaseCondominiosService } from './condominiosService';
+export { SupabaseTarefasService } from './tarefasService';
+export { SupabaseBalancetesService } from './balancetesService';
+export { SupabaseBoletosService } from './boletosService';
+export { SupabaseXeroxService } from './xeroxService';
+export { SupabaseAssembleiasService } from './assembleiasService';
+export { SupabaseNotificacoesService } from './notificacoesService';
+export { SupabaseMensagensService } from './mensagensService';
+export { SupabaseHistoricoService } from './historicoService';
+export { SupabaseFileService } from './fileService';

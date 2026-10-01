@@ -1,0 +1,15 @@
+export { AuthService } from './authService';
+export { ProfileService } from './profileService';
+export { CondominioService } from './condominioService';
+export { TarefaService } from './tarefaService';
+export { BalanceteService } from './balanceteService';
+export { BoletoService } from './boletoService';
+export { XeroxService } from './xeroxService';
+export { AssembleiaService } from './assembleiaService';
+export { ArquivoService } from './arquivoService';
+export { MensagemService } from './mensagemService';
+export { NotificacaoService } from './notificacaoService';
+export { LogService } from './logService';
+export { ConfiguracaoService } from './configuracaoService';
+export { StorageService } from './storageService';
+export { ExcelService } from './excelService';
